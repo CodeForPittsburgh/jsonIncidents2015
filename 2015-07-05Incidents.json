@@ -1,0 +1,232 @@
+[
+    {
+        "incident": {
+            "lat": "40.4785914",
+            "lng": "-80.0008597",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "01:00:00",
+            "incidentnumber": "15123075",
+            "address": "500 block Mt Pleasant Rd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Northview Heights",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "2709(a)",
+                    "description": "Harassment."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454874433673972",
+            "lng": "-79.997054378532326",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "01:20:00",
+            "incidentnumber": "15122784",
+            "address": "800 block Phineas St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.47045804777099",
+            "lng": "-80.027278420865969",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "01:28:00",
+            "incidentnumber": "15122825",
+            "address": "2800 block Stayton St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Marshall-Shadeland",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4472527",
+            "lng": "-80.0103051",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "01:41:00",
+            "incidentnumber": "15122841",
+            "address": "Tony Dorsett Dr & General Robinson St W",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "North Shore",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "3743",
+                    "description": "Accidents Involving Damage to Attended Veh. or Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.483894404875628",
+            "lng": "-80.040807045026227",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "01:49:00",
+            "incidentnumber": "15122846",
+            "address": "3800 block Bonaventure Way",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.483894404875628",
+            "lng": "-80.040807045026227",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "02:10:00",
+            "incidentnumber": "15122846",
+            "address": "3800 block Bonaventure Way",
+            "type": "ARREST",
+            "age": "48",
+            "gender": "M",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.470239318054197",
+            "lng": "-80.012634590630185",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "02:25:00",
+            "incidentnumber": "15122867",
+            "address": "2600 block Norwood Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Perry South",
+            "councildistrict": "6",
+            "zipcode": "15214",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.470164734774741",
+            "lng": "-80.032043293013857",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "02:45:00",
+            "incidentnumber": "15122886",
+            "address": "1400 block Evandale Rd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Marshall-Shadeland",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.47858752419932",
+            "lng": "-80.038474537164149",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "11:59:00",
+            "incidentnumber": "15123066",
+            "address": "3500 block Fleming Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4411910",
+            "lng": "-80.0340401",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-05",
+            "incidenttime": "12:36:00",
+            "incidentnumber": "15123080",
+            "address": "Isabella St & Alexander St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Outside City",
+            "councildistrict": "2",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    }
+]
