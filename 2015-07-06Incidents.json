@@ -1,0 +1,4980 @@
+[
+    {
+        "incident": {
+            "lat": "40.479963775951205",
+            "lng": "-79.949464437364838",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:10:00",
+            "incidentnumber": "15123452",
+            "address": "5300 block Duncan St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Upper Lawrenceville",
+            "councildistrict": "7",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "9012",
+                    "description": "Non-Violent Domestic"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.471005859059538",
+            "lng": "-80.008598371720396",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:25:00",
+            "incidentnumber": "15123459",
+            "address": "Perrysville Ave & N Charles St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Perry South",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.463244507649506",
+            "lng": "-79.912095482430715",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:43:00",
+            "incidentnumber": "15123468",
+            "address": "500 block Paulson Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.429438536176598",
+            "lng": "-79.984214133354882",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:44:00",
+            "incidentnumber": "15123469",
+            "address": "S 14th St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.45332679295938",
+            "lng": "-80.029072029857417",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:46:00",
+            "incidentnumber": "15123471",
+            "address": "1600 block Pennsylvania Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.45332679295938",
+            "lng": "-80.029072029857417",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:46:00",
+            "incidentnumber": "15123471",
+            "address": "1600 block Pennsylvania Ave",
+            "type": "ARREST",
+            "age": "20",
+            "gender": "M",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.45332679295938",
+            "lng": "-80.029072029857417",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:46:00",
+            "incidentnumber": "15123471",
+            "address": "1600 block Pennsylvania Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.45332679295938",
+            "lng": "-80.029072029857417",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:46:00",
+            "incidentnumber": "15123471",
+            "address": "1600 block Pennsylvania Ave",
+            "type": "ARREST",
+            "age": "20",
+            "gender": "M",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.45332679295938",
+            "lng": "-80.029072029857417",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "00:51:00",
+            "incidentnumber": "15123489",
+            "address": "1600 block Pennsylvania Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "5503",
+                    "description": "Disorderly Conduct."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.470459852290823",
+            "lng": "-80.0111378348073",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "01:00:00",
+            "incidentnumber": "15123478",
+            "address": "2900 block N Charles St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Perry South",
+            "councildistrict": "6",
+            "zipcode": "15214",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454074811291946",
+            "lng": "-80.021051277011892",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "01:25:00",
+            "incidentnumber": "15123470",
+            "address": "1000 block Sheffield St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Manchester",
+            "councildistrict": "6",
+            "zipcode": "15233",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.448011981164164",
+            "lng": "-79.894535528545987",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "02:10:00",
+            "incidentnumber": "15123511",
+            "address": "N Braddock Ave & Meade St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze North",
+            "councildistrict": "9",
+            "zipcode": "15221",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.453539170738004",
+            "lng": "-80.000575279128412",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "02:24:00",
+            "incidentnumber": "15123519",
+            "address": "500 block East Ohio St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "601.11(a)",
+                    "description": "Littering and Dumping; Any waste, dangerous or detrimental substance upon public property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460353531091599",
+            "lng": "-80.002380282314391",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "02:50:00",
+            "incidentnumber": "15123532",
+            "address": "1500 block Warren St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Fineview",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4540118",
+            "lng": "-80.0292029",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:00:00",
+            "incidentnumber": "15123533",
+            "address": "1400 block Beaver Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4914",
+                    "description": "False Identification to Law Enforcement Authorities"
+                },
+                {
+                    "section": "3503(b)(1)(i)",
+                    "description": "Actual Communication"
+                },
+                {
+                    "section": "5505",
+                    "description": "Public Drunkenness"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4540118",
+            "lng": "-80.0292029",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:00:00",
+            "incidentnumber": "15123533",
+            "address": "1400 block Beaver Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4914",
+                    "description": "False Identification to Law Enforcement Authorities"
+                },
+                {
+                    "section": "3503(b)(1)(i)",
+                    "description": "Actual Communication"
+                },
+                {
+                    "section": "5505",
+                    "description": "Public Drunkenness"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4540118",
+            "lng": "-80.0292029",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:00:00",
+            "incidentnumber": "15123533",
+            "address": "1400 block Beaver Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4914",
+                    "description": "False Identification to Law Enforcement Authorities"
+                },
+                {
+                    "section": "3503(b)(1)(i)",
+                    "description": "Actual Communication"
+                },
+                {
+                    "section": "5505",
+                    "description": "Public Drunkenness"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:17:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:17:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:17:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:17:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "27",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "32",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "32",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "32",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "32",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "27",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "27",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "27",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460822296651372",
+            "lng": "-79.915681512493606",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:19:00",
+            "incidentnumber": "15123540",
+            "address": "Frankstown Ave & East Liberty Blvd",
+            "type": "ARREST",
+            "age": "32",
+            "gender": "M",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.446094957131841",
+            "lng": "-79.98322476963925",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:21:00",
+            "incidentnumber": "15123541",
+            "address": "1900 block Bedford Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Crawford-Roberts",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9496",
+                    "description": "Dead on Arrival (DOA)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4540118",
+            "lng": "-80.0292029",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:35:00",
+            "incidentnumber": "15123533",
+            "address": "1400 block Beaver Ave",
+            "type": "ARREST",
+            "age": "",
+            "gender": "M",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4914",
+                    "description": "False Identification to Law Enforcement Authorities"
+                },
+                {
+                    "section": "3503(b)(1)(i)",
+                    "description": "Actual Communication"
+                },
+                {
+                    "section": "5505",
+                    "description": "Public Drunkenness"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4540118",
+            "lng": "-80.0292029",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:35:00",
+            "incidentnumber": "15123533",
+            "address": "1400 block Beaver Ave",
+            "type": "ARREST",
+            "age": "",
+            "gender": "M",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4914",
+                    "description": "False Identification to Law Enforcement Authorities"
+                },
+                {
+                    "section": "3503(b)(1)(i)",
+                    "description": "Actual Communication"
+                },
+                {
+                    "section": "5505",
+                    "description": "Public Drunkenness"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4540118",
+            "lng": "-80.0292029",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:35:00",
+            "incidentnumber": "15123533",
+            "address": "1400 block Beaver Ave",
+            "type": "ARREST",
+            "age": "",
+            "gender": "M",
+            "neighbornood": "Chateau",
+            "councildistrict": "6",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4914",
+                    "description": "False Identification to Law Enforcement Authorities"
+                },
+                {
+                    "section": "3503(b)(1)(i)",
+                    "description": "Actual Communication"
+                },
+                {
+                    "section": "5505",
+                    "description": "Public Drunkenness"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.417889310412598",
+            "lng": "-79.993424880864467",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "03:46:00",
+            "incidentnumber": "15123549",
+            "address": "300 block Orchard Pl",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Knoxville",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4534768",
+            "lng": "-80.0005931",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:01:00",
+            "incidentnumber": "15123554",
+            "address": "East Ohio St & James St",
+            "type": "ARREST",
+            "age": "53",
+            "gender": "M",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4526",
+                    "description": "Safety Glass."
+                },
+                {
+                    "section": "4107(b)(2)",
+                    "description": "Vehicle Equipment Standards"
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4534768",
+            "lng": "-80.0005931",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:01:00",
+            "incidentnumber": "15123554",
+            "address": "East Ohio St & James St",
+            "type": "ARREST",
+            "age": "53",
+            "gender": "M",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4526",
+                    "description": "Safety Glass."
+                },
+                {
+                    "section": "4107(b)(2)",
+                    "description": "Vehicle Equipment Standards"
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4534768",
+            "lng": "-80.0005931",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:01:00",
+            "incidentnumber": "15123554",
+            "address": "East Ohio St & James St",
+            "type": "ARREST",
+            "age": "53",
+            "gender": "M",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4526",
+                    "description": "Safety Glass."
+                },
+                {
+                    "section": "4107(b)(2)",
+                    "description": "Vehicle Equipment Standards"
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4534768",
+            "lng": "-80.0005931",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:01:00",
+            "incidentnumber": "15123554",
+            "address": "East Ohio St & James St",
+            "type": "ARREST",
+            "age": "53",
+            "gender": "M",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4526",
+                    "description": "Safety Glass."
+                },
+                {
+                    "section": "4107(b)(2)",
+                    "description": "Vehicle Equipment Standards"
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4534768",
+            "lng": "-80.0005931",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:01:00",
+            "incidentnumber": "15123554",
+            "address": "East Ohio St & James St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4526",
+                    "description": "Safety Glass."
+                },
+                {
+                    "section": "4107(b)(2)",
+                    "description": "Vehicle Equipment Standards"
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4534768",
+            "lng": "-80.0005931",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:01:00",
+            "incidentnumber": "15123554",
+            "address": "East Ohio St & James St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4526",
+                    "description": "Safety Glass."
+                },
+                {
+                    "section": "4107(b)(2)",
+                    "description": "Vehicle Equipment Standards"
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4534768",
+            "lng": "-80.0005931",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:01:00",
+            "incidentnumber": "15123554",
+            "address": "East Ohio St & James St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4526",
+                    "description": "Safety Glass."
+                },
+                {
+                    "section": "4107(b)(2)",
+                    "description": "Vehicle Equipment Standards"
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4534768",
+            "lng": "-80.0005931",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:01:00",
+            "incidentnumber": "15123554",
+            "address": "East Ohio St & James St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "4526",
+                    "description": "Safety Glass."
+                },
+                {
+                    "section": "4107(b)(2)",
+                    "description": "Vehicle Equipment Standards"
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.463244507649506",
+            "lng": "-79.912095482430715",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:11:00",
+            "incidentnumber": "15123557",
+            "address": "500 block Paulson Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.441354979392592",
+            "lng": "-79.994737122353087",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:17:00",
+            "incidentnumber": "15123562",
+            "address": "600 block Grant St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic Arena",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9497",
+                    "description": "Aided Case"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.481062354176309",
+            "lng": "-80.037922044038851",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "04:48:00",
+            "incidentnumber": "15123572",
+            "address": "1500 block Davis Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9497",
+                    "description": "Aided Case"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.414724866333458",
+            "lng": "-79.967809583758211",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "05:00:00",
+            "incidentnumber": "15123886",
+            "address": "300 block Dengler St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Arlington",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.414724866333458",
+            "lng": "-79.967809583758211",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "05:00:00",
+            "incidentnumber": "15123846",
+            "address": "300 block Dengler St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Arlington",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.487823540011732",
+            "lng": "-79.897614208935366",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "06:35:00",
+            "incidentnumber": "15123605",
+            "address": "800 block Freeport Rd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15215",
+            "sections": [
+                {
+                    "section": "3929",
+                    "description": "Retail Theft."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.457571284136478",
+            "lng": "-79.96250427277549",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "06:40:00",
+            "incidentnumber": "15123600",
+            "address": "3400 block Bethoven St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Polish Hill",
+            "councildistrict": "7",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.43537714770175",
+            "lng": "-80.033779012711264",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "07:00:00",
+            "incidentnumber": "15123862",
+            "address": "Mc Knight St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "West End",
+            "councildistrict": "2",
+            "zipcode": "15220",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.491171083037642",
+            "lng": "-80.019869774112294",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "07:05:00",
+            "incidentnumber": "15123607",
+            "address": "4000 block Perrysville Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Perry North",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.420728125109079",
+            "lng": "-79.991853612428827",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "08:00:00",
+            "incidentnumber": "15123715",
+            "address": "1300 block Arlington Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Allentown",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.458446028794754",
+            "lng": "-79.952353039063624",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "08:00:00",
+            "incidentnumber": "15123623",
+            "address": "4700 block Juniper St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bloomfield",
+            "councildistrict": "7",
+            "zipcode": "15224",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.458446028794754",
+            "lng": "-79.952353039063624",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "08:00:00",
+            "incidentnumber": "15123623",
+            "address": "4700 block Juniper St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bloomfield",
+            "councildistrict": "7",
+            "zipcode": "15224",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.399788878927772",
+            "lng": "-80.043325511648376",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "08:15:00",
+            "incidentnumber": "15123630",
+            "address": "3100 block Banksville Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Banksville",
+            "councildistrict": "2",
+            "zipcode": "15216",
+            "sections": [
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.483719925863603",
+            "lng": "-79.939604432869302",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "08:16:00",
+            "incidentnumber": "15116983",
+            "address": "1100 block Downlook St",
+            "type": "ARREST",
+            "age": "28",
+            "gender": "M",
+            "neighbornood": "Stanton Heights",
+            "councildistrict": "7",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.414205883123259",
+            "lng": "-80.009519955943716",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "08:28:00",
+            "incidentnumber": "15123626",
+            "address": "Liberty Tunnels",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Beltzhoover",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3802(a)(1)",
+                    "description": "DUI - General Impairment"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460353531091599",
+            "lng": "-80.002380282314391",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "09:00:00",
+            "incidentnumber": "15123667",
+            "address": "1500 block Warren St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Fineview",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460353531091599",
+            "lng": "-80.002380282314391",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "09:00:00",
+            "incidentnumber": "15123667",
+            "address": "1500 block Warren St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Fineview",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.414205883123259",
+            "lng": "-80.009519955943716",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "09:00:00",
+            "incidentnumber": "15123626",
+            "address": "Liberty Tunnels",
+            "type": "ARREST",
+            "age": "46",
+            "gender": "M",
+            "neighbornood": "Beltzhoover",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3802(a)(1)",
+                    "description": "DUI - General Impairment"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435878615590219",
+            "lng": "-80.034633662544636",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "09:20:00",
+            "incidentnumber": "15123633",
+            "address": "1000 block Mc Cartney St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "West End",
+            "councildistrict": "2",
+            "zipcode": "15220",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435095503606554",
+            "lng": "-79.993077686753679",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "09:40:00",
+            "incidentnumber": "15112018",
+            "address": "900 block Second Ave",
+            "type": "ARREST",
+            "age": "28",
+            "gender": "F",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.459190603440391",
+            "lng": "-79.927408851895919",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "09:40:00",
+            "incidentnumber": "15123657",
+            "address": "5900 block Centre Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Shadyside",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3929",
+                    "description": "Retail Theft."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.425371808712953",
+            "lng": "-79.94216631853314",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "10:00:00",
+            "incidentnumber": "14233323",
+            "address": "500 block Greenfield Ave",
+            "type": "ARREST",
+            "age": "45",
+            "gender": "M",
+            "neighbornood": "Golden Triangle\/Civic Arena",
+            "councildistrict": "5",
+            "zipcode": "15207",
+            "sections": [
+                {
+                    "section": "2709(a)",
+                    "description": "Harassment."
+                },
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.430173176205038",
+            "lng": "-79.956110258403797",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "10:00:00",
+            "incidentnumber": "15123699",
+            "address": "3100 block Ward St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Oakland",
+            "councildistrict": "3",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9124",
+                    "description": "Drug Investigation"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.470459852290823",
+            "lng": "-80.0111378348073",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "10:14:00",
+            "incidentnumber": "15123674",
+            "address": "2900 block N Charles St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Perry South",
+            "councildistrict": "6",
+            "zipcode": "15214",
+            "sections": [
+                {
+                    "section": "9497",
+                    "description": "Aided Case"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.464754672263233",
+            "lng": "-79.9213702620372",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "10:30:00",
+            "incidentnumber": "15123753",
+            "address": "Rodman St & Sheridan Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.464754672263233",
+            "lng": "-79.9213702620372",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "10:30:00",
+            "incidentnumber": "15123753",
+            "address": "Rodman St & Sheridan Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.464720734645418",
+            "lng": "-79.898423748772927",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "10:30:00",
+            "incidentnumber": "15123687",
+            "address": "1200 block Lincoln Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "901",
+                    "description": "Criminal Attempt"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.470164734774741",
+            "lng": "-80.032043293013857",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "10:32:00",
+            "incidentnumber": "15123397",
+            "address": "1400 block Evandale Rd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Marshall-Shadeland",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.487901150494203",
+            "lng": "-80.04239646158976",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "11:00:00",
+            "incidentnumber": "15123821",
+            "address": "1800 block Chellis",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Central Northside",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4521662",
+            "lng": "-80.1728743",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "11:22:00",
+            "incidentnumber": "15123718",
+            "address": "1000 block Airport Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Outside County",
+            "councildistrict": "0",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "9094",
+                    "description": "Recovered Stolen Vehicle (OUTSIDE CITY)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.477698446693445",
+            "lng": "-79.93591271698125",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "11:28:00",
+            "incidentnumber": "15123729",
+            "address": "1000 block Oranmore St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Stanton Heights",
+            "councildistrict": "9",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.410622077894772",
+            "lng": "-80.022911507373166",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "11:36:00",
+            "incidentnumber": "15123724",
+            "address": "1600 block Dagmar Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Beechview",
+            "councildistrict": "4",
+            "zipcode": "15216",
+            "sections": [
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.410622077894772",
+            "lng": "-80.022911507373166",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "11:37:00",
+            "incidentnumber": "15123724",
+            "address": "1600 block Dagmar Ave",
+            "type": "ARREST",
+            "age": "25",
+            "gender": "M",
+            "neighbornood": "Beechview",
+            "councildistrict": "4",
+            "zipcode": "15216",
+            "sections": [
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.451931544123035",
+            "lng": "-79.923971341868125",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:00:00",
+            "incidentnumber": "15123769",
+            "address": "5th Ave & S Highland Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Squirrel Hill North",
+            "councildistrict": "8",
+            "zipcode": "15232",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454106142366726",
+            "lng": "-79.950167023630968",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:00:00",
+            "incidentnumber": "15123747",
+            "address": "4700 block Baum Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bloomfield",
+            "councildistrict": "7",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "9504",
+                    "description": "Lost Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454106142366726",
+            "lng": "-79.950167023630968",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:00:00",
+            "incidentnumber": "15123746",
+            "address": "4700 block Baum Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bloomfield",
+            "councildistrict": "7",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "9504",
+                    "description": "Lost Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454106142366726",
+            "lng": "-79.950167023630968",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:00:00",
+            "incidentnumber": "15123744",
+            "address": "4700 block Baum Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bloomfield",
+            "councildistrict": "7",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "9504",
+                    "description": "Lost Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.430029464019185",
+            "lng": "-79.988643041572175",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:10:00",
+            "incidentnumber": "15084035",
+            "address": "Muriel St & S 10th St",
+            "type": "ARREST",
+            "age": "24",
+            "gender": "F",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.430029464019185",
+            "lng": "-79.988643041572175",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:10:00",
+            "incidentnumber": "15084035",
+            "address": "Muriel St & S 10th St",
+            "type": "ARREST",
+            "age": "24",
+            "gender": "F",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.448099905067707",
+            "lng": "-79.912070103081462",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:15:00",
+            "incidentnumber": "15123764",
+            "address": "500 block Glen Arden Dr",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze",
+            "councildistrict": "8",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.485278634005368",
+            "lng": "-80.032992223540802",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:20:00",
+            "incidentnumber": "15123751",
+            "address": "1200 block Goe Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "2709",
+                    "description": "Harassment (Non-Specific)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.38732442389842",
+            "lng": "-79.983798489219694",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:28:00",
+            "incidentnumber": "15123755",
+            "address": "Brownsville Rd & Biscayne Dr",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "4303",
+                    "description": "General Lighting Requirements."
+                },
+                {
+                    "section": "3736",
+                    "description": "Reckless Driving"
+                },
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                },
+                {
+                    "section": "3733",
+                    "description": "Fleeing or Attempting to Elude Police Officer"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.38732442389842",
+            "lng": "-79.983798489219694",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:28:00",
+            "incidentnumber": "15123755",
+            "address": "Brownsville Rd & Biscayne Dr",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "4303",
+                    "description": "General Lighting Requirements."
+                },
+                {
+                    "section": "3736",
+                    "description": "Reckless Driving"
+                },
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                },
+                {
+                    "section": "3733",
+                    "description": "Fleeing or Attempting to Elude Police Officer"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.38732442389842",
+            "lng": "-79.983798489219694",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:28:00",
+            "incidentnumber": "15123755",
+            "address": "Brownsville Rd & Biscayne Dr",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "4303",
+                    "description": "General Lighting Requirements."
+                },
+                {
+                    "section": "3736",
+                    "description": "Reckless Driving"
+                },
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                },
+                {
+                    "section": "3733",
+                    "description": "Fleeing or Attempting to Elude Police Officer"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.38732442389842",
+            "lng": "-79.983798489219694",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:28:00",
+            "incidentnumber": "15123755",
+            "address": "Brownsville Rd & Biscayne Dr",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "4303",
+                    "description": "General Lighting Requirements."
+                },
+                {
+                    "section": "3736",
+                    "description": "Reckless Driving"
+                },
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                },
+                {
+                    "section": "3733",
+                    "description": "Fleeing or Attempting to Elude Police Officer"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.434696587775576",
+            "lng": "-79.996300985228572",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:45:00",
+            "incidentnumber": "15106901",
+            "address": "600 block 1st Ave",
+            "type": "ARREST",
+            "age": "26",
+            "gender": "F",
+            "neighbornood": "Crawford-Roberts",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3503",
+                    "description": "Criminal Trespass"
+                },
+                {
+                    "section": "2709(a)(1)",
+                    "description": "Harassment by Physical Contact, or Attempts or Threats"
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                },
+                {
+                    "section": "5503",
+                    "description": "Disorderly Conduct."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.434696587775576",
+            "lng": "-79.996300985228572",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:45:00",
+            "incidentnumber": "15106901",
+            "address": "600 block 1st Ave",
+            "type": "ARREST",
+            "age": "26",
+            "gender": "F",
+            "neighbornood": "Crawford-Roberts",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3503",
+                    "description": "Criminal Trespass"
+                },
+                {
+                    "section": "2709(a)(1)",
+                    "description": "Harassment by Physical Contact, or Attempts or Threats"
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                },
+                {
+                    "section": "5503",
+                    "description": "Disorderly Conduct."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.434696587775576",
+            "lng": "-79.996300985228572",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:45:00",
+            "incidentnumber": "15106901",
+            "address": "600 block 1st Ave",
+            "type": "ARREST",
+            "age": "26",
+            "gender": "F",
+            "neighbornood": "Crawford-Roberts",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3503",
+                    "description": "Criminal Trespass"
+                },
+                {
+                    "section": "2709(a)(1)",
+                    "description": "Harassment by Physical Contact, or Attempts or Threats"
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                },
+                {
+                    "section": "5503",
+                    "description": "Disorderly Conduct."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.434696587775576",
+            "lng": "-79.996300985228572",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:45:00",
+            "incidentnumber": "15106901",
+            "address": "600 block 1st Ave",
+            "type": "ARREST",
+            "age": "26",
+            "gender": "F",
+            "neighbornood": "Crawford-Roberts",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3503",
+                    "description": "Criminal Trespass"
+                },
+                {
+                    "section": "2709(a)(1)",
+                    "description": "Harassment by Physical Contact, or Attempts or Threats"
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                },
+                {
+                    "section": "5503",
+                    "description": "Disorderly Conduct."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3922168975934",
+            "lng": "-80.010830066222454",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "12:53:00",
+            "incidentnumber": "15123772",
+            "address": "1300 block Brookline Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brookline",
+            "councildistrict": "4",
+            "zipcode": "15226",
+            "sections": [
+                {
+                    "section": "3802(d)(2)",
+                    "description": "DUI - Drug - Impaired Ability"
+                },
+                {
+                    "section": "3802(a)(1)",
+                    "description": "DUI - General Impairment"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.45134467034007",
+            "lng": "-79.902285009010654",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "13:00:00",
+            "incidentnumber": "15123742",
+            "address": "7100 block Thomas St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze North",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "9090",
+                    "description": "Recovered Firearm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.443535549700833",
+            "lng": "-79.977755397985646",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "13:11:00",
+            "incidentnumber": "15123780",
+            "address": "300 block Addison St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Middle Hill",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3922168975934",
+            "lng": "-80.010830066222454",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "13:18:00",
+            "incidentnumber": "15123772",
+            "address": "1300 block Brookline Blvd",
+            "type": "ARREST",
+            "age": "34",
+            "gender": "M",
+            "neighbornood": "Brookline",
+            "councildistrict": "4",
+            "zipcode": "15226",
+            "sections": [
+                {
+                    "section": "3802(d)(2)",
+                    "description": "DUI - Drug - Impaired Ability"
+                },
+                {
+                    "section": "3802(a)(1)",
+                    "description": "DUI - General Impairment"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454104396974053",
+            "lng": "-79.996792124994045",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "13:46:00",
+            "incidentnumber": "15123801",
+            "address": "Madison Ave & East Ohio St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Allegheny",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "5507",
+                    "description": "Obstructing Highways and Passages."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435095503606554",
+            "lng": "-79.993077686753679",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "14:20:00",
+            "incidentnumber": "15083178",
+            "address": "900 block Second Ave",
+            "type": "ARREST",
+            "age": "24",
+            "gender": "M",
+            "neighbornood": "Manchester",
+            "councildistrict": "6",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "13(a)(31)",
+                    "description": "Marijuana: Possession Small Amount"
+                },
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "1543",
+                    "description": "Driving While Operating Privilege is Suspended or Revoked."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435095503606554",
+            "lng": "-79.993077686753679",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "14:20:00",
+            "incidentnumber": "15082109",
+            "address": "900 block Second Ave",
+            "type": "ARREST",
+            "age": "31",
+            "gender": "M",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "1543",
+                    "description": "Driving While Operating Privilege is Suspended or Revoked."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "3112",
+                    "description": "Traffic-Control Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435095503606554",
+            "lng": "-79.993077686753679",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "14:20:00",
+            "incidentnumber": "15116921",
+            "address": "900 block Second Ave",
+            "type": "ARREST",
+            "age": "58",
+            "gender": "M",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.449606365527259",
+            "lng": "-79.974270684591801",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "14:45:00",
+            "incidentnumber": "15123826",
+            "address": "2400 block Bedford Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bedford Dwellings",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                },
+                {
+                    "section": "2705",
+                    "description": "Recklessly Endangering Another Person."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.449606365527259",
+            "lng": "-79.974270684591801",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "14:45:00",
+            "incidentnumber": "15123826",
+            "address": "2400 block Bedford Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bedford Dwellings",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                },
+                {
+                    "section": "2705",
+                    "description": "Recklessly Endangering Another Person."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.410356742633624",
+            "lng": "-79.990376092457225",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "14:45:00",
+            "incidentnumber": "15123845",
+            "address": "200 block Suncrest St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Knoxville",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "2709(a)(1)",
+                    "description": "Harassment by Physical Contact, or Attempts or Threats"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.462100879853438",
+            "lng": "-80.030733971677336",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "14:50:00",
+            "incidentnumber": "15123857",
+            "address": "Marshall Ave & California Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Marshall-Shadeland",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3743",
+                    "description": "Accidents Involving Damage to Attended Veh. or Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.412624083735189",
+            "lng": "-79.981619927662791",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:00:00",
+            "incidentnumber": "15123870",
+            "address": "400 block Ormsby Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Mt. Oliver Neighborhood",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460788773667765",
+            "lng": "-79.924122774445735",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:04:00",
+            "incidentnumber": "15123831",
+            "address": "100 block Sheridan Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9497",
+                    "description": "Aided Case"
+                },
+                {
+                    "section": "3929",
+                    "description": "Retail Theft."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460788773667765",
+            "lng": "-79.924122774445735",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:04:00",
+            "incidentnumber": "15123831",
+            "address": "100 block Sheridan Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9497",
+                    "description": "Aided Case"
+                },
+                {
+                    "section": "3929",
+                    "description": "Retail Theft."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.471673180808267",
+            "lng": "-79.90160797055637",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:30:00",
+            "incidentnumber": "15123879",
+            "address": "700 block Dunmore St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.468175970308813",
+            "lng": "-79.903017981594047",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:35:00",
+            "incidentnumber": "15123858",
+            "address": "Paulson Ave & Clifford St",
+            "type": "ARREST",
+            "age": "16",
+            "gender": "M",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "5126",
+                    "description": "Flight to Avoid Apprehension, Trial or Punishment."
+                },
+                {
+                    "section": "5121",
+                    "description": "Escape."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.468175970308813",
+            "lng": "-79.903017981594047",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:35:00",
+            "incidentnumber": "15123858",
+            "address": "Paulson Ave & Clifford St",
+            "type": "ARREST",
+            "age": "16",
+            "gender": "M",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "5126",
+                    "description": "Flight to Avoid Apprehension, Trial or Punishment."
+                },
+                {
+                    "section": "5121",
+                    "description": "Escape."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.468175970308813",
+            "lng": "-79.903017981594047",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:35:00",
+            "incidentnumber": "15123858",
+            "address": "Paulson Ave & Clifford St",
+            "type": "ARREST",
+            "age": "16",
+            "gender": "M",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "5126",
+                    "description": "Flight to Avoid Apprehension, Trial or Punishment."
+                },
+                {
+                    "section": "5121",
+                    "description": "Escape."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454074811291946",
+            "lng": "-80.021051277011892",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:37:00",
+            "incidentnumber": "15123838",
+            "address": "1000 block Sheffield St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Manchester",
+            "councildistrict": "6",
+            "zipcode": "15233",
+            "sections": [
+                {
+                    "section": "2709",
+                    "description": "Harassment (Non-Specific)"
+                },
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454074811291946",
+            "lng": "-80.021051277011892",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:37:00",
+            "incidentnumber": "15123838",
+            "address": "1000 block Sheffield St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Manchester",
+            "councildistrict": "6",
+            "zipcode": "15233",
+            "sections": [
+                {
+                    "section": "2709",
+                    "description": "Harassment (Non-Specific)"
+                },
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.468175970308813",
+            "lng": "-79.903017981594047",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:45:00",
+            "incidentnumber": "15123858",
+            "address": "Paulson Ave & Clifford St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "5126",
+                    "description": "Flight to Avoid Apprehension, Trial or Punishment."
+                },
+                {
+                    "section": "5121",
+                    "description": "Escape."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.468175970308813",
+            "lng": "-79.903017981594047",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:45:00",
+            "incidentnumber": "15123858",
+            "address": "Paulson Ave & Clifford St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "5126",
+                    "description": "Flight to Avoid Apprehension, Trial or Punishment."
+                },
+                {
+                    "section": "5121",
+                    "description": "Escape."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.468175970308813",
+            "lng": "-79.903017981594047",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:45:00",
+            "incidentnumber": "15123858",
+            "address": "Paulson Ave & Clifford St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "5126",
+                    "description": "Flight to Avoid Apprehension, Trial or Punishment."
+                },
+                {
+                    "section": "5121",
+                    "description": "Escape."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.438466834802064",
+            "lng": "-79.988141392414235",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:48:00",
+            "incidentnumber": "15047777",
+            "address": "1300 block 5th Ave",
+            "type": "ARREST",
+            "age": "26",
+            "gender": "F",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3932",
+                    "description": "Theft of Leased Property."
+                },
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.438466834802064",
+            "lng": "-79.988141392414235",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:48:00",
+            "incidentnumber": "15047777",
+            "address": "1300 block 5th Ave",
+            "type": "ARREST",
+            "age": "26",
+            "gender": "F",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3932",
+                    "description": "Theft of Leased Property."
+                },
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.450889504351629",
+            "lng": "-80.057136773259998",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:50:00",
+            "incidentnumber": "15091238",
+            "address": "1200 block Oakglen St",
+            "type": "ARREST",
+            "age": "",
+            "gender": "M",
+            "neighbornood": "Crafton Heights",
+            "councildistrict": "2",
+            "zipcode": "15204",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                },
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.450889504351629",
+            "lng": "-80.057136773259998",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:50:00",
+            "incidentnumber": "15091238",
+            "address": "1200 block Oakglen St",
+            "type": "ARREST",
+            "age": "",
+            "gender": "M",
+            "neighbornood": "Crafton Heights",
+            "councildistrict": "2",
+            "zipcode": "15204",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                },
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.450889504351629",
+            "lng": "-80.057136773259998",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "15:50:00",
+            "incidentnumber": "15091238",
+            "address": "1200 block Oakglen St",
+            "type": "ARREST",
+            "age": "",
+            "gender": "M",
+            "neighbornood": "Crafton Heights",
+            "councildistrict": "2",
+            "zipcode": "15204",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                },
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454621656087944",
+            "lng": "-79.911385923902941",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:30:00",
+            "incidentnumber": "15123897",
+            "address": "6700 block Thomas St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze North",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454621656087944",
+            "lng": "-79.911385923902941",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:30:00",
+            "incidentnumber": "15123897",
+            "address": "6700 block Thomas St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze North",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:45:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:45:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:45:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:45:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.467009653319337",
+            "lng": "-79.889949597646535",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:45:00",
+            "incidentnumber": "15123906",
+            "address": "7300 block Lemington Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:46:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "ARREST",
+            "age": "31",
+            "gender": "M",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:46:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "ARREST",
+            "age": "31",
+            "gender": "M",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:46:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "ARREST",
+            "age": "31",
+            "gender": "M",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:46:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "ARREST",
+            "age": "25",
+            "gender": "M",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452272659000528",
+            "lng": "-79.924616392686133",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:46:00",
+            "incidentnumber": "15123916",
+            "address": "600 block N Highland Ave",
+            "type": "ARREST",
+            "age": "25",
+            "gender": "M",
+            "neighbornood": "East Liberty",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "1301",
+                    "description": "Registration and Certificate of Title Required."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "4703",
+                    "description": "Operation of Vehicle without Official Certif. of Inspection"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.392232155746562",
+            "lng": "-80.019916657356717",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:46:00",
+            "incidentnumber": "15123913",
+            "address": "900 block Berkshire Ave",
+            "type": "ARREST",
+            "age": "56",
+            "gender": "M",
+            "neighbornood": "Brookline",
+            "councildistrict": "4",
+            "zipcode": "15226",
+            "sections": [
+                {
+                    "section": "9093",
+                    "description": "Indirect Criminal Contempt"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.392232155746562",
+            "lng": "-80.019916657356717",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:46:00",
+            "incidentnumber": "15123913",
+            "address": "900 block Berkshire Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brookline",
+            "councildistrict": "4",
+            "zipcode": "15226",
+            "sections": [
+                {
+                    "section": "9093",
+                    "description": "Indirect Criminal Contempt"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4592529943626",
+            "lng": "-79.988147111102137",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:49:00",
+            "incidentnumber": "15122616",
+            "address": "1300 block Lowrie St",
+            "type": "ARREST",
+            "age": "43",
+            "gender": "M",
+            "neighbornood": "Troy Hill-Herrs Island",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.453972363943379",
+            "lng": "-79.912436684646153",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "16:54:00",
+            "incidentnumber": "15123931",
+            "address": "6700 block Penn Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze",
+            "councildistrict": "8",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "3743",
+                    "description": "Accidents Involving Damage to Attended Veh. or Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454147275534986",
+            "lng": "-79.878404054863324",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "17:37:00",
+            "incidentnumber": "15123984",
+            "address": "8300 block Vidette St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Hills",
+            "councildistrict": "9",
+            "zipcode": "15221",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3866792",
+            "lng": "-79.9326340",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "17:38:00",
+            "incidentnumber": "15123946",
+            "address": "West Liberty Ave & Saw Mill Run Blvd Ramp",
+            "type": "ARREST",
+            "age": "32",
+            "gender": "M",
+            "neighbornood": "Bon Air",
+            "councildistrict": "5",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "602.04",
+                    "description": "Panhandling and Prohibited Conduct"
+                },
+                {
+                    "section": "5507",
+                    "description": "Obstructing Highways and Passages."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3866792",
+            "lng": "-79.9326340",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "17:38:00",
+            "incidentnumber": "15123946",
+            "address": "West Liberty Ave & Saw Mill Run Blvd Ramp",
+            "type": "ARREST",
+            "age": "32",
+            "gender": "M",
+            "neighbornood": "Bon Air",
+            "councildistrict": "5",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "602.04",
+                    "description": "Panhandling and Prohibited Conduct"
+                },
+                {
+                    "section": "5507",
+                    "description": "Obstructing Highways and Passages."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3866792",
+            "lng": "-79.9326340",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "17:38:00",
+            "incidentnumber": "15123946",
+            "address": "West Liberty Ave & Saw Mill Run Blvd Ramp",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bon Air",
+            "councildistrict": "5",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "602.04",
+                    "description": "Panhandling and Prohibited Conduct"
+                },
+                {
+                    "section": "5507",
+                    "description": "Obstructing Highways and Passages."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3866792",
+            "lng": "-79.9326340",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "17:38:00",
+            "incidentnumber": "15123946",
+            "address": "West Liberty Ave & Saw Mill Run Blvd Ramp",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bon Air",
+            "councildistrict": "5",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "602.04",
+                    "description": "Panhandling and Prohibited Conduct"
+                },
+                {
+                    "section": "5507",
+                    "description": "Obstructing Highways and Passages."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.454147275534986",
+            "lng": "-79.878404054863324",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:00:00",
+            "incidentnumber": "15123984",
+            "address": "8300 block Vidette St",
+            "type": "ARREST",
+            "age": "22",
+            "gender": "F",
+            "neighbornood": "East Hills",
+            "councildistrict": "9",
+            "zipcode": "15221",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.447661271102689",
+            "lng": "-79.888103874523352",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:15:00",
+            "incidentnumber": "15037071",
+            "address": "400 block Rosedale St",
+            "type": "ARREST",
+            "age": "28",
+            "gender": "F",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15221",
+            "sections": [
+                {
+                    "section": "1543",
+                    "description": "Driving While Operating Privilege is Suspended or Revoked."
+                },
+                {
+                    "section": "7512",
+                    "description": "Criminal Use of Communication"
+                },
+                {
+                    "section": "903",
+                    "description": "Criminal Conspiracy."
+                },
+                {
+                    "section": "5105",
+                    "description": "Hindering Apprehension or Prosecution."
+                },
+                {
+                    "section": "1501",
+                    "description": "Drivers Required to be Licensed."
+                },
+                {
+                    "section": "3323",
+                    "description": "Stop Signs and Yield Signs."
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.447661271102689",
+            "lng": "-79.888103874523352",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:15:00",
+            "incidentnumber": "15037071",
+            "address": "400 block Rosedale St",
+            "type": "ARREST",
+            "age": "28",
+            "gender": "F",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15221",
+            "sections": [
+                {
+                    "section": "1543",
+                    "description": "Driving While Operating Privilege is Suspended or Revoked."
+                },
+                {
+                    "section": "7512",
+                    "description": "Criminal Use of Communication"
+                },
+                {
+                    "section": "903",
+                    "description": "Criminal Conspiracy."
+                },
+                {
+                    "section": "5105",
+                    "description": "Hindering Apprehension or Prosecution."
+                },
+                {
+                    "section": "1501",
+                    "description": "Drivers Required to be Licensed."
+                },
+                {
+                    "section": "3323",
+                    "description": "Stop Signs and Yield Signs."
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.447661271102689",
+            "lng": "-79.888103874523352",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:15:00",
+            "incidentnumber": "15037071",
+            "address": "400 block Rosedale St",
+            "type": "ARREST",
+            "age": "28",
+            "gender": "F",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15221",
+            "sections": [
+                {
+                    "section": "1543",
+                    "description": "Driving While Operating Privilege is Suspended or Revoked."
+                },
+                {
+                    "section": "7512",
+                    "description": "Criminal Use of Communication"
+                },
+                {
+                    "section": "903",
+                    "description": "Criminal Conspiracy."
+                },
+                {
+                    "section": "5105",
+                    "description": "Hindering Apprehension or Prosecution."
+                },
+                {
+                    "section": "1501",
+                    "description": "Drivers Required to be Licensed."
+                },
+                {
+                    "section": "3323",
+                    "description": "Stop Signs and Yield Signs."
+                },
+                {
+                    "section": "6106",
+                    "description": "Firearms not to be Carried without a License."
+                },
+                {
+                    "section": "6105(a)(1)",
+                    "description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.455042665550501",
+            "lng": "-79.894865120436791",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:27:00",
+            "incidentnumber": "15123955",
+            "address": "Sterrett St & Kelly St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.437228155635516",
+            "lng": "-80.039662605032134",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:43:00",
+            "incidentnumber": "15123988",
+            "address": "600 block Noblestown Rd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Elliott",
+            "councildistrict": "2",
+            "zipcode": "15220",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.438091155451616",
+            "lng": "-80.001853342344887",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:45:00",
+            "incidentnumber": "15123987",
+            "address": "300 block Blvd Of The Allies",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic Arena",
+            "councildistrict": "6",
+            "zipcode": "15222",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452909656441683",
+            "lng": "-80.051374043433015",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:50:00",
+            "incidentnumber": "15124032",
+            "address": "Narcissus Way & Bergman St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "2",
+            "zipcode": "15204",
+            "sections": [
+                {
+                    "section": "903",
+                    "description": "Criminal Conspiracy."
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452909656441683",
+            "lng": "-80.051374043433015",
+            "zone": "Zone 6",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "18:50:00",
+            "incidentnumber": "15124032",
+            "address": "Narcissus Way & Bergman St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "2",
+            "zipcode": "15204",
+            "sections": [
+                {
+                    "section": "903",
+                    "description": "Criminal Conspiracy."
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435871654423465",
+            "lng": "-79.923064652845284",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "19:00:00",
+            "incidentnumber": "15124116",
+            "address": "1900 block Murray Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Squirrel Hill South",
+            "councildistrict": "5",
+            "zipcode": "15217",
+            "sections": [
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.462496664922227",
+            "lng": "-80.024269072195878",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "19:45:00",
+            "incidentnumber": "15124069",
+            "address": "Winifred St & Colfax St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "California-Kirkbride",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "601.11(a)",
+                    "description": "Littering and Dumping; Any waste, dangerous or detrimental substance upon public property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.462496664922227",
+            "lng": "-80.024269072195878",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "19:45:00",
+            "incidentnumber": "15124069",
+            "address": "Winifred St & Colfax St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "California-Kirkbride",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "601.11(a)",
+                    "description": "Littering and Dumping; Any waste, dangerous or detrimental substance upon public property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.449606365527259",
+            "lng": "-79.974270684591801",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "20:36:00",
+            "incidentnumber": "15124076",
+            "address": "2400 block Bedford Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bedford Dwellings",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2707.1",
+                    "description": "Discharge of a Firearm into Occupied Structure"
+                },
+                {
+                    "section": "8106",
+                    "description": "Shots Fired"
+                },
+                {
+                    "section": "2707",
+                    "description": "Propulsion of Missiles"
+                },
+                {
+                    "section": "2705",
+                    "description": "Recklessly Endangering Another Person."
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.449606365527259",
+            "lng": "-79.974270684591801",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "20:36:00",
+            "incidentnumber": "15124076",
+            "address": "2400 block Bedford Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bedford Dwellings",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2707.1",
+                    "description": "Discharge of a Firearm into Occupied Structure"
+                },
+                {
+                    "section": "8106",
+                    "description": "Shots Fired"
+                },
+                {
+                    "section": "2707",
+                    "description": "Propulsion of Missiles"
+                },
+                {
+                    "section": "2705",
+                    "description": "Recklessly Endangering Another Person."
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.449606365527259",
+            "lng": "-79.974270684591801",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "20:36:00",
+            "incidentnumber": "15124076",
+            "address": "2400 block Bedford Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bedford Dwellings",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2707.1",
+                    "description": "Discharge of a Firearm into Occupied Structure"
+                },
+                {
+                    "section": "8106",
+                    "description": "Shots Fired"
+                },
+                {
+                    "section": "2707",
+                    "description": "Propulsion of Missiles"
+                },
+                {
+                    "section": "2705",
+                    "description": "Recklessly Endangering Another Person."
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.449606365527259",
+            "lng": "-79.974270684591801",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "20:36:00",
+            "incidentnumber": "15124076",
+            "address": "2400 block Bedford Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bedford Dwellings",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2707.1",
+                    "description": "Discharge of a Firearm into Occupied Structure"
+                },
+                {
+                    "section": "8106",
+                    "description": "Shots Fired"
+                },
+                {
+                    "section": "2707",
+                    "description": "Propulsion of Missiles"
+                },
+                {
+                    "section": "2705",
+                    "description": "Recklessly Endangering Another Person."
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.449606365527259",
+            "lng": "-79.974270684591801",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "20:36:00",
+            "incidentnumber": "15124076",
+            "address": "2400 block Bedford Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bedford Dwellings",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2707.1",
+                    "description": "Discharge of a Firearm into Occupied Structure"
+                },
+                {
+                    "section": "8106",
+                    "description": "Shots Fired"
+                },
+                {
+                    "section": "2707",
+                    "description": "Propulsion of Missiles"
+                },
+                {
+                    "section": "2705",
+                    "description": "Recklessly Endangering Another Person."
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.471379992136775",
+            "lng": "-79.958964051286713",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "20:50:00",
+            "incidentnumber": "15124086",
+            "address": "4400 block Cessna Way",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Central Lawrenceville",
+            "councildistrict": "7",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.471379992136775",
+            "lng": "-79.958964051286713",
+            "zone": "Zone 2",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "20:50:00",
+            "incidentnumber": "15124086",
+            "address": "4400 block Cessna Way",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Central Lawrenceville",
+            "councildistrict": "7",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.469731647057117",
+            "lng": "-80.027507012884371",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "20:54:00",
+            "incidentnumber": "15124084",
+            "address": "1200 block Woodland Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Marshall-Shadeland",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.403821207808228",
+            "lng": "-79.942419207380112",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "21:41:00",
+            "incidentnumber": "15124120",
+            "address": "5300 block 2nd Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Hazelwood",
+            "councildistrict": "5",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "5503(a)(2)",
+                    "description": "DISORDERLY CONDUCT - UNREASONABLE NOISE"
+                },
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.403821207808228",
+            "lng": "-79.942419207380112",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "21:41:00",
+            "incidentnumber": "15124120",
+            "address": "5300 block 2nd Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Hazelwood",
+            "councildistrict": "5",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "5503(a)(2)",
+                    "description": "DISORDERLY CONDUCT - UNREASONABLE NOISE"
+                },
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4224491",
+            "lng": "-80.0100815",
+            "zone": "Zone 3",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "21:44:00",
+            "incidentnumber": "15124125",
+            "address": "200 block Paul St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Mount Washington",
+            "councildistrict": "2",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "9498",
+                    "description": "302 (Mental)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.403821207808228",
+            "lng": "-79.942419207380112",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "21:51:00",
+            "incidentnumber": "15124120",
+            "address": "5300 block 2nd Ave",
+            "type": "ARREST",
+            "age": "22",
+            "gender": "F",
+            "neighbornood": "Hazelwood",
+            "councildistrict": "5",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "5503(a)(2)",
+                    "description": "DISORDERLY CONDUCT - UNREASONABLE NOISE"
+                },
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.403821207808228",
+            "lng": "-79.942419207380112",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "21:51:00",
+            "incidentnumber": "15124120",
+            "address": "5300 block 2nd Ave",
+            "type": "ARREST",
+            "age": "22",
+            "gender": "F",
+            "neighbornood": "Hazelwood",
+            "councildistrict": "5",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "5503(a)(2)",
+                    "description": "DISORDERLY CONDUCT - UNREASONABLE NOISE"
+                },
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.425093282630137",
+            "lng": "-79.92928294919318",
+            "zone": "Zone 4",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "21:55:00",
+            "incidentnumber": "15124128",
+            "address": "4100 block Windsor St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Greenfield",
+            "councildistrict": "5",
+            "zipcode": "15217",
+            "sections": [
+                {
+                    "section": "901",
+                    "description": "Criminal Attempt"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460623402161843",
+            "lng": "-79.932766652756285",
+            "zone": "Zone 5",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "22:42:00",
+            "incidentnumber": "15124158",
+            "address": "300 block S Negley Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Friendship",
+            "councildistrict": "7",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9490",
+                    "description": "Missing Persons (18 and Over)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452042212663898",
+            "lng": "-80.008738896002342",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "23:00:00",
+            "incidentnumber": "15124174",
+            "address": "200 block Ridge Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Allegheny Center",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.452042212663898",
+            "lng": "-80.008738896002342",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "23:00:00",
+            "incidentnumber": "15124181",
+            "address": "200 block Ridge Ave",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Allegheny Center",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4469382",
+            "lng": "-80.0120598",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "23:17:00",
+            "incidentnumber": "15124175",
+            "address": "General Robinson St W & Chuck Knoll Way",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "North Shore",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4452876",
+            "lng": "-80.0135558",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "23:20:00",
+            "incidentnumber": "15116984",
+            "address": "300 block North Shore Dr",
+            "type": "ARREST",
+            "age": "40",
+            "gender": "M",
+            "neighbornood": "North Shore",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3928",
+                    "description": "Unauthorized Use of Automobile and Other Vehicles."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4452876",
+            "lng": "-80.0135558",
+            "zone": "Zone 1",
+            "incidentdate": "2015-07-06",
+            "incidenttime": "23:20:00",
+            "incidentnumber": "15116984",
+            "address": "300 block North Shore Dr",
+            "type": "ARREST",
+            "age": "40",
+            "gender": "M",
+            "neighbornood": "North Shore",
+            "councildistrict": "1",
+            "zipcode": "",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3928",
+                    "description": "Unauthorized Use of Automobile and Other Vehicles."
+                }
+            ]
+        }
+    }
+]
